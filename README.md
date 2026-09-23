@@ -26,10 +26,6 @@ Instead of browsing job boards and hoping for a match, JobHunter reverses the pr
 3. **Deep-Dive Extraction**: Visit portals $\rightarrow$ Scan for "New Grad/Junior" $\rightarrow$ Verify 0-experience eligibility $\rightarrow$ Log direct URLs to `job_pool.csv`.
 4. **Review**: The user reviews the `job_pool.csv` and proceeds to apply.
 
-## 🚀 Quick Start for AI Agents
-To use this system, simply provide the `JobHunter` folder to a capable AI agent and instruct it:
-> *"Use the JobHunter skill to find roles based on my profile. Follow the pipeline in SKILL.md to populate the company_targets and job_pool CSVs."*
-
 ## 🛡️ Constraints
 - **No Guessing**: The agent is forbidden from guessing work authorization or salary requirements.
 - **No General Links**: Only direct links to specific job postings are permitted in the final pool.
